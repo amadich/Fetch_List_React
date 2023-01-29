@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fetch_List_React/static/css/main.678fc042.css",
+    "main.js": "/Fetch_List_React/static/js/main.df3042f5.js",
+    "static/media/backgroundtile.png": "/Fetch_List_React/static/media/backgroundtile.51c282a57a734cc06453.png",
+    "index.html": "/Fetch_List_React/index.html",
+    "main.678fc042.css.map": "/Fetch_List_React/static/css/main.678fc042.css.map",
+    "main.df3042f5.js.map": "/Fetch_List_React/static/js/main.df3042f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678fc042.css",
+    "static/js/main.df3042f5.js"
+  ]
+}
